@@ -45,9 +45,9 @@ In an attempt to increase the initial model's accuracy to 75% or above, the belo
 - The activation function was changed from "relu" to "leaky_relu" in the second layer. This was changed to determine if a different function could add insight to the model.
 
 - The target accuracy of 75% was not achieved from the adjustments to the optimization model.
-    - ***initial model***
+    - ***initial model...***
     ![This is an image](Images/initial_results.png)
-    - ***optimized model***
+    - ***optimized model...***
     ![This is an image](Images/optimized_results.png)
 
 ## Summary
